@@ -1,8 +1,9 @@
 # Lawn_Care Github Project Requirement
 
+FUNCTIONAL REQUIREMENT
 1. An application that will be strictly operated only within the United States 
 
-      [] web-based  
+            [X] web-based  
 
 2. End-users need to have access to the application 
 
@@ -16,10 +17,10 @@
 
 3. End-Users need to be able to click which region they live in within the United States 
 
-   [] Northeast
-   [] Midwest
-   [] South
-   [] West 
+         [] Northeast
+         [] Midwest
+         [] South
+         [] West 
 
 4. Application will allow user to input size of their yard 
 
@@ -29,27 +30,29 @@
 
 5. Application will have side bar menu for easier navigation 
 
-      [] Consist of the different type of Lawn Seed 
-
-      [] Consist of The Region 
-
-      [] Consist of the price 
+            [] Consist of the different type of Lawn Seed 
+      
+            [] Consist of The Region 
+      
+            [] Consist of the price 
 
 6. Application to display types of recommended
-   [] grasses/Lawn name
-   [] water content
-   [] price
-   [] fertilizer type 
+   
+         [] grasses/Lawn name
+         [] water content
+         [] price
+         [] fertilizer type 
 
-7. Application will have request button that sends email to end-user
-   []Request Button
+8. Application will have request button that sends email to end-user
 
+       [] Request Button
+            
 Non-Functional Requirements 
 
 Performance 
 
-Application should have a loading time <= 2.5 seconds 
+      [] Application should have a loading time <= 2.5 seconds 
 
 Reliability  
 
-Application should perform without failure 90 
+      [] Application should perform without failure 90 
