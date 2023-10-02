@@ -6,13 +6,13 @@
 
 2. End-users need to have access to the application 
 
-   Overall: Application shall be operable in a web-based browser 
+   - Application shall be operable in a web-based browser 
 
-    [] Operable in Microsoft Edge 
+          [] Operable in Microsoft Edge 
 
-    [] Operable in Google Chrome 
+          [] Operable in Google Chrome 
 
-    [] Operable in Mozilla Firefox 
+          [] Operable in Mozilla Firefox 
 
 3. End-Users need to be able to click which region they live in within the United States 
 
@@ -21,23 +21,28 @@
    [] South
    [] West 
 
-Application will allow user to input size of their yard 
+4. Application will allow user to input size of their yard 
 
-Application will be able to calculate the size of yard depending on the input from the user 
+      - Application will be able to calculate the size of yard depending on the input from the user 
 
-Convert to square feet 
+            [] Convert to square feet 
 
-Application will have side bar menu for easier navigation 
+5. Application will have side bar menu for easier navigation 
 
-Consist of the different type of Lawn Seed 
+      [] Consist of the different type of Lawn Seed 
 
-Consist of The Region 
+      [] Consist of The Region 
 
-Consist of the price 
+      [] Consist of the price 
 
-Application to display types of recommended grasses, water content, price and fertilizer type 
+6. Application to display types of recommended
+   [] grasses/Lawn name
+   [] water content
+   [] price
+   [] fertilizer type 
 
-Application will have request button that sends email to end-user  
+7. Application will have request button that sends email to end-user
+   []Request Button
 
 Non-Functional Requirements 
 
