@@ -3,7 +3,7 @@
 FUNCTIONAL REQUIREMENT
 1. An application that will be strictly operated only within the United States 
 
-            [X] web-based  hi
+            [X] web-based  
 
 2. End-users need to have access to the application 
 
