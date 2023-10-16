@@ -1,0 +1,200 @@
+body {
+    background-color: yellow;
+}
+
+/*------------------------------------BERMUDA GRASS--------------------------------------*/
+header {
+    background-color: red;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: white;
+  }
+  
+  /* Style the main title */
+  h2 {
+    color: blue;
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /* Style the grass image */
+  #grass-image {
+    width: 75%;
+  }
+  
+  
+  section {
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .sub-section {
+    text-align: Left;
+    width: 30%; /* Adjust the width as needed */
+  }
+  
+  /* Style for subsection title */
+  .sub-section h3 {
+    font-weight: bold;
+  }
+  
+  /* Style for gray boxes */
+  .gray-box {
+    background-color: gray;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+  }
+
+  /*---------------------------------------------------GreenThumb--------------------------------------------*/
+
+  /* Apply styles to the title */
+.title {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style the regions section */
+.regions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Style the map and quote */
+.map {
+    width: 50%;
+    text-align: center;
+}
+
+.quote {
+    font-style: italic;
+}
+
+/* Style the region list */
+.region-list {
+    width: 40%;
+    text-align: right;
+}
+
+.region-list h2 {
+    text-align: center;
+}
+
+/* Apply styles to the regions list */
+.region ul {
+    list-style: none;
+    padding: 0;
+}
+
+.region ul li {
+    margin-bottom: 10px;
+}
+
+/* Style the contact section */
+.contact {
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+.contact-info {
+    margin: 5px 0;
+}
+
+/* Style the social media section */
+.social-media {
+    text-align: center;
+    padding: 20px;
+}
+
+  /*---------------------------------------------------WEST--------------------------------------------*/
+  body {
+ /*   background-color: #E8E8E8; /* Set background color */
+    color: #000; /* Set text color */
+  }
+  
+  h1 {
+    background-color: red; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+  
+  h2 {
+    background-color: blue; /* Set region title background color */
+    color: #333; /* Set region title text color */
+    padding: 10px; /* Add padding for better visual separation */
+  }
+  
+  ul {
+    list-style: none; /* Remove bullet points from the list */
+  }
+  
+  li {
+    margin: 10px 0; /* Add margin to list items for spacing */
+  }
+
+    /*---------------------------------------------------SMALL--------------------------------------------*/
+  /*  body, h1, h2 {
+      margin: 0;
+      padding: 0;
+  }*/
+  
+  /* Style the page title */
+  h1 {
+      background-color: red;
+      color: white;
+      padding: 10px;
+      text-align: center;
+  }
+  
+  /* Style the "Request Form" section */
+  h2 {
+      background-color: gray;
+      color: blue;
+      padding: 10px;
+      text-align: center;
+  }
+  
+  /* Style the form labels */
+  label {
+      color: white;
+      background-color: blue;
+      display: inline-block;
+      padding: 5px 20px;
+      margin: 5px 0;
+  }
+  
+  /* Style the form submit button */
+  input[type="submit"] {
+      color: white;
+      background-color: green;
+      border: none;
+      padding: 10px 20px;
+      margin: 10px auto;
+      display: block;
+  }
+  
+  /* Center the form within its section */
+  form {
+      text-align: left;
+  }
+  
+  /* Adjust margins for the form inputs */
+  input[type="text"],
+  input[type="email"] {
+      margin: 5px 0;
+      padding: 5px;
+      display: block;
+      width: 100%;
+  }
