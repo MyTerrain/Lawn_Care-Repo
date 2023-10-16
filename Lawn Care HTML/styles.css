@@ -1,11 +1,12 @@
 body {
-    background-color: yellow;
+    background-color:beige;
 }
 
 /*------------------------------------BERMUDA GRASS--------------------------------------*/
 header {
     background-color: red;
     text-align: center;
+    padding: 20px;
   }
   
   header h1 {
@@ -54,6 +55,15 @@ header {
 
   /*---------------------------------------------------GreenThumb--------------------------------------------*/
 
+.images {
+  background-color: beige;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 550px;
+  height: 300px;
+}
+
   /* Apply styles to the title */
 .title {
     background-color: red;
@@ -64,40 +74,53 @@ header {
 
 /* Style the regions section */
 .regions {
+  background-color: beige;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
 }
 
+.select-region{
+  line-height: 50%;
+  text-align: center;
+  font-size: 20px;
+}
+
 /* Style the map and quote */
 .map {
     width: 50%;
     text-align: center;
+    color: #000;
 }
 
 .quote {
     font-style: italic;
+    font-size: 18px;
 }
 
 /* Style the region list */
 .region-list {
-    width: 40%;
-    text-align: right;
-}
-
-.region-list h2 {
+    width: 350px;
     text-align: center;
+    font-size: 20px;
 }
 
+.region-list ul{
+  line-height: 3.5;
+}
+
+.region-list ul li{
+  background-color: orange;
+}
 /* Apply styles to the regions list */
-.region ul {
+.region  {
     list-style: none;
-    padding: 0;
+    /*padding: 0;*/
 }
 
-.region ul li {
-    margin-bottom: 10px;
+.region  {
+    margin-bottom: 80px;
 }
 
 /* Style the contact section */
@@ -143,6 +166,19 @@ header {
   li {
     margin: 10px 0; /* Add margin to list items for spacing */
   }
+
+
+.west {
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  margin-top: 0%;
+
+}
+
+
+
+
 
     /*---------------------------------------------------SMALL--------------------------------------------*/
   /*  body, h1, h2 {
