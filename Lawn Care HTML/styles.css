@@ -10,8 +10,17 @@ a:hover{
   color: green;
 }
 
+.home:any-link{
+  text-decoration: none;
+  color: #ddd;
+}
+
 body {
     background-color:beige;
+}
+
+ul{
+  list-style-type: none;
 }
 
 /*------------------------------------BERMUDA GRASS--------------------------------------*/
