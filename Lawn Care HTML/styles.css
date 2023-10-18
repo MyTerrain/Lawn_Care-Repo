@@ -12,12 +12,12 @@ a:hover{
 
 .home:any-link{
   text-decoration: none;
-  color: #ddd;
-  font-size: 80px;
+  color: black;
+  font-size: 30px;
 }
 
 #calc {
-  background-color: aquamarine;
+  background-color: grren;
 }
 
 body {
