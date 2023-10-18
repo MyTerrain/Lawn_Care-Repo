@@ -13,6 +13,11 @@ a:hover{
 .home:any-link{
   text-decoration: none;
   color: #ddd;
+  font-size: 80px;
+}
+
+#calc {
+  background-color: aquamarine;
 }
 
 body {
@@ -82,7 +87,28 @@ header {
  }
 
   /*---------------------------------------------------GreenThumb--------------------------------------------*/
+.question{
+  line-height: 2.0;
 
+}
+
+.calc{
+  background-color: greenyellow;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+
+.HOMEimages{
+  background-color: beige;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  padding: 5px;
+  width: 900px;
+  height: 500px;
+}
 .images {
   background-color: beige;
   border: 1px solid #ddd;
