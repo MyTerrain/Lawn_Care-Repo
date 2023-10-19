@@ -13,8 +13,12 @@ a:hover{
 .home:any-link{
   text-decoration: none;
   font-size: 80px;
+  color: white;
+}
 
-  
+.title:any-link{
+  text-decoration: none;
+  color: white;
 }
 
 .black{
@@ -22,9 +26,6 @@ a:hover{
   font-size: 30px;
 }
 
-#calc {
-  background-color: green;
-}
 
 body {
     background-color:beige;
@@ -85,6 +86,8 @@ header {
     color: white;
     font-family: Arial, sans-serif;
     border-color: #000;
+    border: 20px;
+    align-self: center;
 
   }
 
@@ -95,16 +98,20 @@ header {
   /*---------------------------------------------------GreenThumb--------------------------------------------*/
 .question{
   line-height: 2.0;
-
 }
 
-.calc{
-  background-color: greenyellow;
+
+#calc{
+  background-color: yellow;
+  padding: dashed;
   font-size: 25px;
   font-weight: bold;
+  color: #000
 }
 
-
+.home:hover{
+  text-decoration: none;
+}
 
 .HOMEimages{
   background-color: beige;
@@ -302,3 +309,32 @@ margin-top: 0%;
       display: block;
       width: 100%;
   }
+
+  /*-----------------------------------YARD CALCULATOR--------------------------------*/
+  label{
+    background-color: bisque;
+    color: #000
+  }
+
+  .emoh{
+    text-align: center;
+    color: #000;
+    font-size: 80px;
+    background-color: blue;
+  }
+
+  .final{
+    text-align: center;
+    font-size: 70px;
+  }
+
+  /*-----------BACK BUTTON------*/
+ .bttn{
+  text-align: left;
+  background-color: gray;
+  margin-top: 0%;
+ }
+
+ .northeast{
+  margin-top: 0%;
+}
