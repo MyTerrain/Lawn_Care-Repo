@@ -22,7 +22,11 @@ function calculateCost() {
         console.log("Large");
         document.getElementById("recommend").innerText = "Larg Package";
     }
+
+
 }
+
+
 
 function updateForm(){
     
@@ -78,8 +82,17 @@ function calculateArea(){
             let height = document.getElementById("id_height").value;
             area = base * height/2;
             break;
+
     }
 
     //output the area
     document.getElementById("id_output").innerHTML = "Area = " + area + " sq.ft";
+    document.getElementById("area").value = area;
+    document.getElementById("result").value = calculateCost();
+    console.log("Worked");
+
 }
+
+
+
+
